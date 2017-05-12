@@ -1,0 +1,20 @@
+#foot {
+	background-color: #323232;
+	margin-right: auto;
+	margin-left: auto;
+	height: 100px;
+	z-index:1;
+	width: 100%;
+	clear: both;
+}
+#foot2 {
+	background-color: #323232;
+	margin-right: auto;
+	margin-left: auto;
+	z-index:1;
+	width: 875px;
+	clear: both;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 25px;
+}
